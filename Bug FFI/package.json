@@ -1,0 +1,19 @@
+{
+  "name": "Bug test",
+  "version": "1.0.0",
+  "description": "Bug test",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "index": "bun run --hot index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
